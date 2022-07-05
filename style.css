@@ -650,7 +650,28 @@ section p strong {
   }
 
   #description2 {
-    top: 36rem;
+    top: 27.5rem;
+    left: 33rem;
+    position: absolute;
+    width: 25rem;
+  }
+
+  #description3 {
+    top: 45rem;
+    left: 33rem;
+    position: absolute;
+    width: 25rem;
+  }
+
+  #description4 {
+    top: 62.5rem;
+    left: 33rem;
+    position: absolute;
+    width: 25rem;
+  }
+
+  #description5 {
+    top: 80rem;
     left: 33rem;
     position: absolute;
     width: 25rem;
